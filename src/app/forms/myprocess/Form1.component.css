@@ -1,0 +1,22 @@
+.tasks{
+    margin: 0px;
+   
+}
+.list{
+    border-right: 1px #ccc solid;
+    padding-right: 20px;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: #333;
+}
+a:hover{
+    text-decoration: underline;
+}
+.column{
+    float: left;
+    margin: 10px;
+}
